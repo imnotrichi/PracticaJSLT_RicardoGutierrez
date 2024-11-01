@@ -41,10 +41,7 @@ div {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-}
-
-body div:nth-last-child() {
-    border-radius: 0rem 0rem 1rem 1rem;
+    font-weight: 600;
 }
 
 
